@@ -1,4 +1,4 @@
-module github.com/openweb3-io/gotron-sdk
+module github.com/fbsobreira/gotron-sdk
 
 go 1.19
 
